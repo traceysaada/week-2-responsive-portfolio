@@ -1,0 +1,25 @@
+* {
+  margin: 5px;
+}
+
+h1 {
+  padding: 5px;
+}
+
+.homepageAside {
+    width: 30%;
+    padding-left: 20px;
+    margin-left: 15px;
+    float: left;
+    font-style: inherit;
+    background-color: lightcyan;
+  }
+
+  .portfolioAside {
+    width: 30%;
+    padding-left: 20px;
+    margin-left: 15px;
+    float: left;
+    font-style: inherit;
+    background-color: lightpink;
+  }
