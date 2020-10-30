@@ -1,3 +1,19 @@
+initial set up of my html pages & the adding of the navbar
+
+next stage was to think about my headers & what I wanted each page to show about me.
+
+the contact page is self explanatory & is my contact details & although I dont know how to link them yet I have added the link status for updating at a later date.
+
+home page is about the browser learnng more about me, so \I added a picture & some basic carrer information & personal information about me.
+
+portfolio loving adding cards to the portfolio it is only 3 decades as yet but hoping to add more as I go along & can add some more intering layouts & fun facts about events so far in different decades of my life.
+
+had so much fun designing & playing with various aspects of bootstrap, javascript & just seeing how far I could push myself. 
+
+getting access to various web sites & doing searches has played a major role in the planing of the portfolio.
+
+it is still a work in progress. learning curb has been immense & confidence in commiting & push comands now achieved.
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
