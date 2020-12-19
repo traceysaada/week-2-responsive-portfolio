@@ -1,3 +1,11 @@
+new work on portfolio: got links working & added new tab page for project & homework links to display work.
+
+going to add some new card blocks to house the links.
+
+
+
+
+
 initial set up of my html pages & the adding of the navbar
 
 next stage was to think about my headers & what I wanted each page to show about me.
