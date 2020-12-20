@@ -1,10 +1,28 @@
+NEW ADDED READ ME
+**********************
 new work on portfolio: got links working & added new tab page for project & homework links to display work.
 
 going to add some new card blocks to house the links.
 
+added a CV tab as I wanted this also to be on my portfolio. the tab is great, love the iframe part for showing & scrolling of my CV but need to do more work on this as it doesnt load my CV on the live server.
 
+I have added cards & styling to the projects page. this helps to make each homework section & projects stand out.
 
+the whole portfolio is now set to add further information in the future.
 
+I want the user to be abe to do the following.
+
+when clicking on browser initial look is to see my about me home page.
+then the user can click the portfolio tab & find out a little bit of what happened in each decade of my life & have a fun insite to me.
+
+the user can then click on the contact tab for ability to contact me.
+
+click the project tab & see my work & experience of doing Manchester Universitys coding boot camp.
+
+& finally click on my CV for a more indepth information of my working life.
+
+********************
+INITIAL README
 
 initial set up of my html pages & the adding of the navbar
 
